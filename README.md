@@ -13,21 +13,6 @@ card stock works best, but regular card stock will work fine as well.
 Regular printer/copy paper won't work with the music box mechanism,
 but you can print these on it anyway to use them as worksheets.
 
-Nore Information Than You Thought You Needed, Maybe
-===================================================
-
-Dimensions
-----------
-
-for 15-note music boxes:
-
-- 41 mm wide
-
-- 15 notes spaced 2mm apart across the strip.  low C note 6.5mm from
-  edge; middle C note in center; high C note 6.5mm from other edge.
-
-- beats 8mm apart along the strip
-
 What's a DIY music box?
 -----------------------
 
@@ -64,4 +49,18 @@ No.  [Grand Illusions] [1] sells 20-note, and 30-note [music boxes]
 
   [1]: http://www.grand-illusions.com/
   [2]: http://www.grand-illusions.com/acatalog/Music_and_Audio_Toys.html
+
+Dimensions
+----------
+
+for 15-note music boxes:
+
+- 41 mm wide
+
+- 15 notes spaced 2mm apart across the strip.  low C note 6.5mm from
+  edge; middle C note in center; high C note 6.5mm from other edge.
+
+- beats 8mm apart along the strip
+
+- punched holes 2mm diameter
 
