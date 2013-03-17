@@ -18,6 +18,5 @@ I don't know.  I first heard about these via a couple of Vi Hart
 videos:
 
 - [Folding Space-Time](http://www.youtube.com/watch?v=WkmPDOq2WfA)
-
 - [Möbius Music Box](http://www.youtube.com/watch?v=3iMI_uOM_fY)
 
