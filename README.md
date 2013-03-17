@@ -20,3 +20,9 @@ videos:
 - [Folding Space-Time](http://www.youtube.com/watch?v=WkmPDOq2WfA)
 - [Möbius Music Box](http://www.youtube.com/watch?v=3iMI_uOM_fY)
 
+Where do I get these?
+---------------------
+
+- [on Amazon](http://www.amazon.com/Kikkerland-Make-Your-Own-Music/dp/B000HAUEFY)
+- [on ThinkGeek](http://www.thinkgeek.com/product/8f7f/)
+
