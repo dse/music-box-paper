@@ -17,7 +17,7 @@ Where have these things been all my life?
 I don't know.  I first heard about these via a couple of Vi Hart
 videos:
 
-- [http://www.youtube.com/watch?v=WkmPDOq2WfA](Folding Space-Time)
+[Folding Space-Time](http://www.youtube.com/watch?v=WkmPDOq2WfA)
 
-- [http://www.youtube.com/watch?v=3iMI_uOM_fY](Möbius Music Box)
+[Möbius Music Box](http://www.youtube.com/watch?v=3iMI_uOM_fY)
 
