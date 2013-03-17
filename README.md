@@ -3,6 +3,8 @@ music-box-paper
 
 Print your own strips for DIY music boxes.
 
+Only for 15-note music boxes right now.
+
 Tips On Printing
 ----------------
 
