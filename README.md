@@ -37,6 +37,19 @@ two octaves, and don't have sharps or flats.  But some of the greatest
 works of art are made because of, and not in spite of, the inherent
 limitations of their medium.
 
+More examples?
+--------------
+
+Some I did:
+
+- http://www.youtube.com/watch?v=vTzsO6_rhQY
+- http://www.youtube.com/watch?v=_Zym2dmDSFs
+- http://www.youtube.com/watch?v=rZAx4NiIzDo
+
+More:
+
+- [Search on YouTube](http://www.youtube.com/results?search_query=diy+music+box).
+
 Where do I get these?
 ---------------------
 
