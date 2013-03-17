@@ -1,4 +1,4 @@
-default: 4x6-index-card-portrait.pdf
+default: 4x6-index-card-portrait.pdf letter-portrait.pdf
 
 # hacky, I know.
 INKSCAPE = $(shell \
