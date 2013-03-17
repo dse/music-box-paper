@@ -11,3 +11,13 @@ mechanism, it plays a tune as you crank the little handle.  And
 instead of a pre-set tune, you get to punch holes in paper strips to
 tell it what notes to play and when!
 
+Where have these things been all my life?
+-----------------------------------------
+
+I don't know.  I first heard about these via a couple of Vi Hart
+videos:
+
+- [http://www.youtube.com/watch?v=WkmPDOq2WfA](Folding Space-Time)
+
+- [http://www.youtube.com/watch?v=3iMI_uOM_fY](Möbius Music Box)
+
