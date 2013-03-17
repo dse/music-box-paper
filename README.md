@@ -3,6 +3,28 @@ music-box-paper
 
 Print your own strips for DIY music boxes.
 
+Tips On Printing
+----------------
+
+It's best to use 110-pound card stock or thereabouts.  Smooth, glossy
+card stock works best, but regular card stock will work fine as well.
+67-pound card stock might be okay.  Index cards might be iffy.
+
+Regular printer/copy paper won't work with the music box mechanism,
+but you can print these on it anyway to use them as worksheets.
+
+Dimensions
+----------
+
+for 15-note music boxes:
+
+- 41 mm wide
+
+- 15 notes spaced 2mm apart across the strip.  low C note 6.5mm from
+  edge; middle C note in center; high C note 6.5mm from other edge.
+
+- beats 8mm apart along the strip
+
 What's a DIY music box?
 -----------------------
 
