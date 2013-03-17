@@ -13,6 +13,9 @@ card stock works best, but regular card stock will work fine as well.
 Regular printer/copy paper won't work with the music box mechanism,
 but you can print these on it anyway to use them as worksheets.
 
+Nore Information Than You Thought You Needed, Maybe
+===================================================
+
 Dimensions
 ----------
 
