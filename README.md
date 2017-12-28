@@ -29,8 +29,8 @@ Where have these things been all my life?
 I don't know.  I first heard about these via a couple of Vi Hart
 videos:
 
-- [Folding Space-Time](http://www.youtube.com/watch?v=WkmPDOq2WfA)
-- [Möbius Music Box](http://www.youtube.com/watch?v=3iMI_uOM_fY)
+- [Folding Space-Time](https://www.youtube.com/watch?v=WkmPDOq2WfA)
+- [Möbius Music Box](https://www.youtube.com/watch?v=3iMI_uOM_fY)
 
 They're rather simplistic in that they have only 15 notes, spanning
 two octaves, and don't have sharps or flats.  But some of the greatest
@@ -42,25 +42,25 @@ More examples?
 
 Some I did:
 
-- http://www.youtube.com/watch?v=vTzsO6_rhQY
-- http://www.youtube.com/watch?v=_Zym2dmDSFs
-- http://www.youtube.com/watch?v=rZAx4NiIzDo
+- https://www.youtube.com/watch?v=vTzsO6_rhQY
+- https://www.youtube.com/watch?v=_Zym2dmDSFs
+- https://www.youtube.com/watch?v=rZAx4NiIzDo
 
 More:
 
-- [Search on YouTube](http://www.youtube.com/results?search_query=diy+music+box).
+- [Search on YouTube](https://www.youtube.com/results?search_query=diy+music+box).
 
 Where do I get these?
 ---------------------
 
-- [at Amazon](http://www.amazon.com/Kikkerland-Make-Your-Own-Music/dp/B000HAUEFY)
-- no longer ~[at ThinkGeek](http://www.thinkgeek.com/product/8f7f/)~
+- [at Amazon](https://smile.amazon.com/Kikkerland-Make-Your-Own-Music/dp/B000HAUEFY)
+- no longer ~[at ThinkGeek](https://www.thinkgeek.com/product/8f7f/)~
 
 Are these the only ones that exist?
 -----------------------------------
 
-No.  [Grand Illusions](http://www.grand-illusions.com/) sells 20- and
-30-note [music boxes](http://www.grand-illusions.com/acatalog/Music_and_Audio_Toys.html)
+No.  [Grand Illusions](https://www.grand-illusions.com/) sells 20- and
+30-note [music boxes](https://www.grand-illusions.com/music-audio-c102x3054944)
 in addition to the 15-note ones.
 
 They also sell additional music box strips like the long ones that
@@ -84,13 +84,13 @@ for 15-note music boxes:
 Whatnot
 -------
 
-Short URL: [bit.ly/music-box-paper](http://bit.ly/music-box-paper)
+Short URL: [bit.ly/music-box-paper](https://bit.ly/music-box-paper)
 
 Copyright
 ---------
 
 Copyright 2013 Darren Embry.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License: CC BY-SA 3.0" title="Creative Commons License: CC BY-SA 3.0" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License: CC BY-SA 3.0" title="Creative Commons License: CC BY-SA 3.0" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 
