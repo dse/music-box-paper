@@ -63,6 +63,10 @@ No.  [Grand Illusions](http://www.grand-illusions.com/) sells 20- and
 30-note [music boxes](http://www.grand-illusions.com/acatalog/Music_and_Audio_Toys.html)
 in addition to the 15-note ones.
 
+They also sell additional music box strips like the long ones that
+came with your kit, if you think finding card stock, printing shorter
+strips, and taping them together is a hassle.
+
 Dimensions
 ----------
 
