@@ -54,16 +54,14 @@ Where do I get these?
 ---------------------
 
 - [at Amazon](http://www.amazon.com/Kikkerland-Make-Your-Own-Music/dp/B000HAUEFY)
-- [at ThinkGeek](http://www.thinkgeek.com/product/8f7f/)
+- no longer ~[at ThinkGeek](http://www.thinkgeek.com/product/8f7f/)~
 
 Are these the only ones that exist?
 -----------------------------------
 
-No.  [Grand Illusions] [1] sells 20-note, and 30-note [music boxes]
-[2] in addition to the 15-note ones.
-
-  [1]: http://www.grand-illusions.com/
-  [2]: http://www.grand-illusions.com/acatalog/Music_and_Audio_Toys.html
+No.  [Grand Illusions](http://www.grand-illusions.com/) sells 20- and
+30-note [music boxes](http://www.grand-illusions.com/acatalog/Music_and_Audio_Toys.html)
+in addition to the 15-note ones.
 
 Dimensions
 ----------
