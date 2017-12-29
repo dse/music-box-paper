@@ -74,8 +74,9 @@ for 15-note music boxes:
 
 - 41 mm wide
 
-- 15 notes spaced 2mm apart across the strip.  low C note 6.5mm from
-  edge; middle C note in center; high C note 6.5mm from other edge.
+- 15 notes spaced 2mm apart across the strip.  center of hole for low
+  C note 6.5mm from edge; middle C note in center; center of hole for
+  high C note 6.5mm from other edge.
 
 - beats 8mm apart along the strip
 
