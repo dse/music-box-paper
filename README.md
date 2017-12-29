@@ -13,7 +13,11 @@ card stock works best, but regular card stock will work fine as well.
 67-pound card stock might be okay.  Index cards might be iffy.
 
 Regular printer/copy paper won't work with the music box mechanism,
-but you can print these on it anyway to use them as worksheets.
+but you can print these on it to use them as worksheets.
+
+Be sure to turn off **any** scaling options such as &ldquo;Fit to
+paper size&rdquo;, especially when printing the letter-size PDFs on A4
+or something.
 
 What's a DIY music box?
 -----------------------
